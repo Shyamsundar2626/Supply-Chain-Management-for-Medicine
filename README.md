@@ -23,7 +23,7 @@ To run this on your local system, follow these steps:
 
 1. Clone this repository.
 ```
-      https://github.com/Dharshini1810/FakeQuipo.git
+      
 ```
 
 2. Install all the dependencies.
